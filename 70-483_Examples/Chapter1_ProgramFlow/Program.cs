@@ -17,7 +17,10 @@ namespace Chapter1_ProgramFlow
             //Example5.Run(args);
             //Example6.Run(args);
             //Example7.Run(args);
-            Example8.Run(args);
+            //Example8.Run(args);
+            //Example9.Run();
+            Example10.Run();
+
             Console.WriteLine("Press enter to exit.");
             Console.ReadLine();
         }
